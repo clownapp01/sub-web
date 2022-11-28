@@ -301,15 +301,15 @@ export default {
           Trojan:"trojan",
           V2Ray: "v2ray",
           Mixed:"mixed",
-          Auto:"Auto"
+          Auto:"Auto",
         },
         customBackend: {
           "本地版（localhost:25500）": "http://localhost:25500/sub?",
-          "本站提供（clown.ml）": "https://clown.ml/sub?"
+          "本站提供（clown.ml）": "https://clown.ml/sub?",
         },
         backendOptions: [
           { value: "http://localhost:25500/sub?" },
-          { value: "https://clown.ml/sub?" }
+          { value: "https://clown.ml/sub?" },
         ],
         remoteConfig: [
            {
