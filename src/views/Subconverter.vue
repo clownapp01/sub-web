@@ -466,7 +466,7 @@ export default {
     },
     goToProject() {
       window.open(project);
-    }
+    }，
     gotoTgChannel() {
       window.open(tgBotLink);
     },
