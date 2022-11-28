@@ -304,8 +304,8 @@ export default {
           Auto:"Auto",
         },
         customBackend: {
-          "本地版（localhost:25500）": "http://localhost:25500/sub?",
-          "本站提供（clown.ml）": "https://clown.ml/sub?",
+          "本地版（http://localhost:25500）": "http://localhost:25500/sub?",
+          "本站提供（https://sub.clown.ml）": "https://sub.clown.ml/sub?",
         },
         backendOptions: [
           { value: "http://localhost:25500/sub?" },
